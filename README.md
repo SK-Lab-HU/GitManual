@@ -64,3 +64,7 @@ git -v
 
 
 ![](images/Clone.png)
+
+3. VSCODEのスタートウィンドウで、Clone Git Repositoryを選択する。
+
+![](images/vscode_st.png)
