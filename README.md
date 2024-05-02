@@ -120,4 +120,13 @@ git config --global user.name "ikeda042"
 
 (ダブルクオーテーションでユーザー名を囲む)
 
+2. VSCODEのターミナルで以下のコマンドを実行する。
+これは、自分のgithubアカウントのメールアドレスを自分のPCに伝える作業である。
+
+
+```bash
+git config --global user.email ikeda042@example.com
+```
+
+
 
