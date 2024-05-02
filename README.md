@@ -70,3 +70,9 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 3. VSCODEのスタートウィンドウで、Clone Git Repositoryを選択する。
 
 ![](images/vscode_st.png)
+
+4. VSCODEウィンドウ上部に以下のようなポップアップが出るので、2でコピーしたURLをペーストしてEnterを押す。
+
+![](images/clone2.png)
+
+
