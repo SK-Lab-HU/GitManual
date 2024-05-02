@@ -48,4 +48,10 @@ git -v
 
 ## Cloneの例
 
-試しに、以下リポジトリ
+試しに、以下リポジトリのクローンを行う。
+
+[Python設定マニュアルのリポジトリ](https://github.com/SK-Lab-HU/PythonSetupManual)
+
+1. 上記のページの中で、緑色のCodeボタンを選択する。
+
+
