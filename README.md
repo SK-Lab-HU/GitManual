@@ -132,3 +132,5 @@ git config --global user.email ikeda042@example.com
 ターミナルでの実行例は以下のよう。
 
 ![](images/gitconfig.png)
+
+これらのコマンドを実行後、Privateなリポジトリをクローンしようとすると、VSCODEが勝手に認証プロセスを開始するので、ダイアログに従って認証プロセスを完了させれば、紐付けは完了である。
