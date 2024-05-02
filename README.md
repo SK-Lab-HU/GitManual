@@ -38,3 +38,10 @@ git -v
 
 ![](images/3.png)
 
+# VSCODEでgitを使用する
+
+上記のgitインストールが正常に完了している場合、VSCODEを開いた際にClone Git Repositoryという項目が増えている。
+
+![](images/vscode_st.png)
+
+
