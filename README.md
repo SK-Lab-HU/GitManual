@@ -22,6 +22,6 @@ githubに資料やコードをアップロード(コミット)しておいてお
 
 ![](images/win_conf.png)
 
-4. 利用規約に同意して、Installを押す。
+4. Installを押す。
 
 ![](images/1.png)
