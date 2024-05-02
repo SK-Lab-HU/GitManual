@@ -143,6 +143,19 @@ gitコマンドを使用した操作は多岐に渡るが、ここでは日常�
 
 まずは、練習用にリポジトリの作成を行う。(これはgit操作とは無関係であるが、本項用にリポジトリ作成を行う。)
 
+1. 初めにgithubのrepositoriesセクションに行き、緑色のボタン(New repository)を選択する。
+
+![](images/repo.png)
+
+2. リポジトリの名前(英数字のみ)およびその説明、公開状態を設定する。
+
+![](images/repo2.png)
+
+3. Add a Readmeにチェックを入れる。
+
+![](images/repo3.png)
+
+4. 最後にCreate repositoryを選択して作成を完了する。
 
 
 
