@@ -82,7 +82,10 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 今回はDesktopを選択する。
 
 ![](images/Sel.png)
+
 クローンのディスティネーションを選択してクローンが完了すると、以下のようなポップアップが出るので、OKを押す。
 
-![](images/Dealog1.png)
+![](images/Dialog1.png)
+
+
 
