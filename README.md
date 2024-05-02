@@ -14,6 +14,8 @@ githubに資料やコードをアップロード(コミット)しておいてお
 
 1. Gitダウンロードページにアクセスする。([Download git](https://git-scm.com/download/win))
 
-2. 2つ目の64-bit Git for Windows Setupを選択
+2. 2つ目の64-bit Git for Windows Setupを選択する。
 
 ![](images/git_downloadpage.png)
+
+3. ダウンロードが完了したら、インストーラーを開く。
