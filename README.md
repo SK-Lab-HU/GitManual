@@ -91,4 +91,5 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 
 完了時には、以下のようにVSCODEでクローンしたフォルダが開かれた状態になっている。つまり、左側のファイルタブにあるtmp.pyなどのファイルは実際にクローン元のリポジトリに存在するファイルと同様のものである。
 
+![](images/cloned.png)
 
