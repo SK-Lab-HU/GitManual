@@ -16,4 +16,4 @@ githubに資料やコードをアップロード(コミット)しておいてお
 
 2. 黄色いDownload PythonボタンをクリックしてPythonをダウンロードする。
 
-![](images/python_org.png)
+![](images/git_downloadpage.png)
