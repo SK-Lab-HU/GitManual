@@ -44,4 +44,4 @@ git -v
 
 ![](images/vscode_st.png)
 
-
+ここで、Cloneはリモート(github上)のリポジトリをローカル(自分のPC)に文字通りクローンするという意味である。
