@@ -83,7 +83,7 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 
 ![](images/Sel.png)
 
-クローンのディスティネーションを選択してクローンが完了すると、以下のようなポップアップが出るので、OKを押す。
+クローンのディスティネーションを選択してクローンが完了すると、以下のようなポップアップが出るので、openを押す。
 
 ![](images/Dialog1.png)
 
