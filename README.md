@@ -1,0 +1,2 @@
+# GitManual
+WindowsにGitをインストールしてVSCODEでgithubに資料やコードをCommit(アップロード）するまでのチュートリアル
