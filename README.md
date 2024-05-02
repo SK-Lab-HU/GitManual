@@ -12,8 +12,7 @@ githubに資料やコードをアップロード(コミット)しておいてお
 
 # Gitのインストール
 
-1. Python公式ページにアクセスする。([Python公式サイト](https://www.python.org/downloads/))
+1. Gitダウンロードページにアクセスする。([Download git](https://git-scm.com/download/win))
 
-2. 黄色いDownload PythonボタンをクリックしてPythonをダウンロードする。
 
 ![](images/git_downloadpage.png)
