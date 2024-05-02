@@ -56,3 +56,11 @@ git -v
 
 ![](images/PS.png)
 
+2. HTTPSセクションを開いて、コピーアイコンをクリックまたは、URLを直接コピーする。
+
+この場合なら、https://github.com/SK-Lab-HU/PythonSetupManual.git
+
+がclone用のURL。
+
+
+![](images/Clone.png)
