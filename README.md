@@ -105,7 +105,12 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 
 ## VSCODEとGithubアカウントの紐付け
 
+以下のPrivateリポジトリを用いて解説を行う。
+
 [Privateなリポジトリの例(SK Lab HU)](https://github.com/SK-Lab-HU/StudySessions)
+
+
+
 
 
 
