@@ -111,5 +111,13 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 
 ここで、上記リポジトリについて、githubアカウントをVSCODEに紐づけたとしても、そのアカウントがリポジトリのメンバーまたはOrganizationのメンバーに入っていなければ、紐付けてもそのリポジトリをクローンすることはできない。
 
+1. VSCODEのターミナルで以下のコマンドを実行する。
+これは、自分のgithubアカウントのユーザー名を自分のPCに伝える作業である。
+
+```bash
+git config --global user.name "ikeda042"
+```
+
+(ダブルクオーテーションでユーザー名を囲む)
 
 
