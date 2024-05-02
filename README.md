@@ -109,8 +109,7 @@ https://github.com/SK-Lab-HU/PythonSetupManual.git
 
 [Privateなリポジトリの例(SK Lab HU)](https://github.com/SK-Lab-HU/StudySessions)
 
-
-
+ここで、上記リポジトリについて、githubアカウントをVSCODEに紐づけたとしても、そのアカウントがリポジトリのメンバーまたはOrganizationのメンバーに入っていなければ、紐付けてもそのリポジトリをクローンすることはできない。
 
 
 
