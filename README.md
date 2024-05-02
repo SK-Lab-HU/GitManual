@@ -129,4 +129,6 @@ git config --global user.email ikeda042@example.com
 
 (ダブルクオーテーションは不要)
 
+ターミナルでの実行例は以下のよう。
 
+![](images/gitconfig.png)
