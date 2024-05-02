@@ -8,6 +8,8 @@ githubに資料やコードをアップロード(コミット)しておいてお
 
 # VSCODEのインストール
 
+[VSCODEのインストール方法](https://github.com/SK-Lab-HU/PythonSetupManual)
+
 # Gitのインストール
 
 1. Python公式ページにアクセスする。([Python公式サイト](https://www.python.org/downloads/))
